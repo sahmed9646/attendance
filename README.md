@@ -5,8 +5,10 @@ A management can add students/ workers and then make attendance according by the
 A management can change the attendance value by simply clicking prefered dates.
 
 #Using Languages and framework
-PHP (I used object oriented way)
-MySQL
-Javascripts
-Ajax
-Bootstrap
+PHP (I used object oriented way),
+MySQL,
+Javascripts,
+Ajax,
+Bootstrap.
+Html,
+Css
