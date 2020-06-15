@@ -6,9 +6,9 @@ A management can change the attendance value by simply clicking prefered dates.<
 
 #Using Languages and framework</br>
 PHP (I used object oriented way),</br>
-MySQL,</br></br>
+MySQL,</br>
 Javascripts,</br>
-Ajax,</br></br></br></br>
-Bootstrap.</br></br></br>
-Html,</br></br>
+Ajax,</br>
+Bootstrap.</br>
+Html,</br>
 Css</br>
